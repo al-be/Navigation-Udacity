@@ -29,6 +29,7 @@ File:=============================Navigation
 The environment, the agent, and the interaction initiated and ran through that.
 
 File:=============================checkpoint.pth
+
 The weights are the neural network of the model in 399 episodes.
 
 
