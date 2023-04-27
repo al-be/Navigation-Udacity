@@ -9,7 +9,7 @@ The state space is defined based on 37 dimensions. There are four discrete actio
 
 The passing score is 13 in training for a sequence of 100 episodes. The desinged DQN has **around 9 thousands parameters, 9301,  and four layers**.
 
-It achives in **399 episodes to average 15.01** while the benchmark of the course is fewer than **1800 episode with average 13**.
+It achives in **399 episodes to average 15.01** while the benchmark of the course is fewer than **1800 episodes with average 13**.
 
 The model leads to an **average 15.8 in 20 runs** in the test conditions.
 
